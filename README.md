@@ -2,6 +2,14 @@
 テックキャンプ実装課題
 ![b0126b950654cf1b3e3203606a517a8f](https://user-images.githubusercontent.com/69582233/110872347-f51e8480-8312-11eb-9aa2-8436a58db5a7.jpg)
 
+## URL
+https://protospace-27537.herokuapp.com/
+
+ログイン情報（テスト用）
+- Eメール: test@example.com
+- password: aaaaaa
+
+※Herokuでデプロイしているため、Herokuの仕様により本番環境にアクセス頂いた際に画像リンクが切れている可能性がございます。
 
 
 # テーブル設計
